@@ -1,2 +1,2 @@
 # Bay Adapt Currents
- Description of Overall Project, and connections to the Joint Platform
+ Page is in progress, please check back later for more information.
