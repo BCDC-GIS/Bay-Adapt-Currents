@@ -20,6 +20,7 @@ Sea level rise has the ability to broadly affect our near-shore communities. As 
   - tidal gate
   - Groundwater
   - Storm surge
+
 In determining which policies to add to the regional inventory, each individual policy containing one or more keywords was assessed for its relevancy to sea level rise and its associated impacts on coastal communities. If sea level rise was not explicitly mentioned in the policy, the policy would be further reviewed for the inclusion of themes such as coastal/flood resilience, wetland restoration, flood control efforts in coastal watersheds, retreat/setback from areas either currently or potentially prone to flooding, or more generally, climate adaptation and related hazard mitigation. We strived to make these judgements of relevancy as consistent as possible, which was ensured by a thorough review of each policy and the context in which it appeared in its associated plan.
 
 With some exceptions, general plans include up to three types of actionable measures: goals, policies, and (implementation) programs/actions. At the highest level, goals establish a broad theme for a set of policies and programs. These can be useful when trying to understand the specific context within which a policy has been made. An example goal from the Vallejo General Plan is “Hazard Protection: Protect life and property from natural and man-made hazards.” While goals are important to establishing the major topics of a general plan we only tracked policies related to sea level rise on a policy and programmatic level.
@@ -64,5 +65,5 @@ Following a review of policies initially included in the inventory, BCDC Adaptin
   - **Vulnerable populations** language focusing on vulnerable people and/or disproportionate impacts; environmental justice; equity; disadvantage*
   - **Water quality** includes policies/programs with a focus on vessel pollution
   - **Wetlands** includes marsh
-  - 
+    
 These categories were based on principles set forth in the One Bay Vision, a foundational document for the [Regional Shoreline Adaptation Plan](https://www.bcdc.ca.gov/regional-shoreline-adaptation-plan-bpa-1-24/), which was published in December 2025. In the context of the Bay Adapt Curretns, these categories should assist BCDC staff, policymakers, frontline communities, and concerned residents alike understand where there are gaps in sea level rise adaptation strategies across the Bay Area, as communicated through General Plan documents. 
