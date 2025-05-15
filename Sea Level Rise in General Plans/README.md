@@ -27,9 +27,11 @@ With some exceptions, general plans include up to three types of actionable meas
 In the creation of this inventory, while some policies (particularly those related to flood adaptation) may seem to be a bit too broad to be concretely linked to SLR adaptation, many of the policies we determined to be relevant to the inventory were considered so based on their connection to climate adaptation goals. Policies occupy some sort of middle ground, more clearly stating the processes that will inform decision-making in pursuit of a goal. One of the policies corresponding to the goal listed above reads as follows:
 
 _**Sea Level Rise. Plan for sea level rise and participate in regional adaptation efforts for areas of Vallejo at risk from sea level rise.**_
+
 Formal policies are a component of every general plan and can offer insight into the way in which a city or county intends to pursue a goal without delving too much into site-level specifics, allowing for a relatively consistent basis of comparison between jurisdictions. Programs, sometimes referred to as implement(-ing/-ation) actions, programs, or measures, propose more explicit initiatives to carry out a policy or set of policies. A program connected to the policy above reads: 
 
 _**For City underground utilities, use materials that are more resistant to corrosion from saltwater intrusion.**_
+
 At times, a program might be linked directly to an individual policy stated earlier in the document, which is noted in the “Relevant Programs/Implementation Actions” column of the Regional SLR policy inventory. 
 
 Following a review of policies initially included in the inventory, BCDC Adapting to Rising Tides – Data & Science Unit staff filtered out any policies that were not ultimately considered within the scope of our study, and ensured that our considerations of each policy were consistent across the General Plans of the 55 cities/towns and 9 counties we eventually reviewed. BCDC Staff then characterized each policy as fitting into one or more of the following categories, if any were applicable:
