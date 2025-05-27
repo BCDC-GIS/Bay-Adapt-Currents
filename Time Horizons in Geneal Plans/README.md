@@ -1,8 +1,7 @@
-# Bay Adapt Currents Git Hub Repository
+# Time Horizons in General Plans
 ## Summary
-This repository provides access to the data sets used to create the [Bay Adapt Currents Dashboard](https://app.powerbigov.us/view?r=eyJrIjoiZTZkZmM2NjAtMDY5OS00NjJlLWFhMWQtOTE5NWM4Njc2ZmY0IiwidCI6ImRkODc3MWE4LTU1MzAtNDMzMy05NDllLWM0NjAwZjViY2E3MSJ9&pageName=3040416bd188a75a422b).
-## Data Updates
-The Git Hub is updated when new data is added to the dashboard.
-## Credits
-Suggested Citation:
-Bay Conservation and Development Commission. (2025). Bay Adapt Currents Dashboard Git Hub Repository [Name of Page (ex. Public Opinion on Climate Change)]. Access Date. 
+This Metric pulls from the same data as the Sea Level Rise in General Plans Metric. For the data sheets used to create this metric, please visit the Sea Level Rise in General Plans folder within this repository.
+## Methods
+Each General Plan was scanned for key information on sea level rise time horizons. When a specific time horizon for adaptation was provided, it was recorded along with the associated tidal inundation expected as well as the source. Not all general plans provided information on all three.
+
+Unlike the associated Sea Level Rise in General Plans metric, references to future water levels and associated time horizons were recorded if they were found anywhere throughout the document (Not just in policies or programs). If a general plan included multiple water levels for the same time horizon, all water levels were included.
