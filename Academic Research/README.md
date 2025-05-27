@@ -1,8 +1,7 @@
-# Bay Adapt Currents Git Hub Repository
+# Research on Sea Level Rise in the Bay Area
 ## Summary
-This repository provides access to the data sets used to create the [Bay Adapt Currents Dashboard](https://app.powerbigov.us/view?r=eyJrIjoiZTZkZmM2NjAtMDY5OS00NjJlLWFhMWQtOTE5NWM4Njc2ZmY0IiwidCI6ImRkODc3MWE4LTU1MzAtNDMzMy05NDllLWM0NjAwZjViY2E3MSJ9&pageName=3040416bd188a75a422b).
-## Data Updates
-The Git Hub is updated when new data is added to the dashboard.
-## Credits
-Suggested Citation:
-Bay Conservation and Development Commission. (2025). Bay Adapt Currents Dashboard Git Hub Repository [Name of Page (ex. Public Opinion on Climate Change)]. Access Date. 
+Using Open Alex, BCDC staff searched for Articles on "Sea Level Rise" and " San Francisco Bay." Open Alex assigns each article a relevancy score for the topic and works are generated from more to less relevant. BCDC staff performed an API pull of the top 1,000 articles based on the search criteria (Open Alex limits you to 10 API pulls of 100 articles each).  
+
+The data was loaded into Excel. Columns with information on "ID," "title," "relevance score," publication year," "publication date," "language," "primary location," "type," "type crossref," "open access," "authorship," "cited by count," and "referenced works count" were expanded. The "authorship" column was further expanded to reveal information about the author, institution, and source country. Because many academic articles have more than one author or source institution, many articles are listed multiple times in the source data sheet. However, only the first occurrence of a title is included in the graph to avoid double counting of articles.   
+
+
