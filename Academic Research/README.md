@@ -10,6 +10,7 @@ Open Alex assigns each article a relevancy score for the topic and works are gen
 - API Only loads 100 articles at a time and has a max of ten pages. Loads articles by relevance to the chosen topic. Need to do a seperate API Pull for each page  
 
 **STEP ONE:**
+
 Opened new excel file -> data -> from web -> insert API URL -> right clicked on “list” next to results and selected “drill down” -> right clicked on “list” and selected “To Table” -> Delimiter = None, pressed ok -> expanded column by hitting button next to column1 and selected: 
 
 - Id
@@ -37,11 +38,12 @@ Opened new excel file -> data -> from web -> insert API URL -> right clicked on 
 *Note: After this step there will be repeats of articles with more than one author or institution*
 
 **STEP THREE:**
+
 Repeated steps for each subsequent API pull.  To get the next API pull changed “page=1” in the API to page=2, then page =3 ext. Until we reached page = 10. (the limit is 1000) 
 
 *Note: When complete there should be ten sheets in the excel book*
 
-**STEP FOUR** APPEND QUERIES 
+**STEP FOUR**
 
 Searched “append query” and select in excel. -> Chose “three or more tables” -> Selected all tables (except the one already in use) and pressed okay. This created a new table with all of the pages combined. 
 
