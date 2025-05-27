@@ -1,8 +1,9 @@
-# Bay Adapt Currents Git Hub Repository
+# Community Capacity 
 ## Summary
-This repository provides access to the data sets used to create the [Bay Adapt Currents Dashboard](https://app.powerbigov.us/view?r=eyJrIjoiZTZkZmM2NjAtMDY5OS00NjJlLWFhMWQtOTE5NWM4Njc2ZmY0IiwidCI6ImRkODc3MWE4LTU1MzAtNDMzMy05NDllLWM0NjAwZjViY2E3MSJ9&pageName=3040416bd188a75a422b).
-## Data Updates
-The Git Hub is updated when new data is added to the dashboard.
-## Credits
-Suggested Citation:
-Bay Conservation and Development Commission. (2025). Bay Adapt Currents Dashboard Git Hub Repository [Name of Page (ex. Public Opinion on Climate Change)]. Access Date. 
+Data for this metrics was collected using snowball sampling techniques. BCDC Staff contacted organizations with known programs that focused on environmental justice and sea level rise and asked about other programs that should be looked into. 
+
+Community Based Organizations that appeared to have a relevant program were contacted by BCDC staff for an interview.  The name of the lead organization, name of the program, location, and the number of participants were all recorded. We also asked questions about stipend amount, whether participants received food/travel reimbursements, time frame of the program, hours spent training, language of instruction, funding source and whether the program was completed, in progress, or under development. 
+
+Most Community Based Organizations were able to provide specific numbers for each program. However, when a range was given (of participants or hours spent), the middle number of the range was used. These numbers should be considered as an approximation of what is occurring, but there is likely some amount of error in the reporting.
+
+For access to this dataset please contact [BayAdaptCurrents@bcdc.ca.gov](BayAdaptCurrents@bcdc.ca.gov)
