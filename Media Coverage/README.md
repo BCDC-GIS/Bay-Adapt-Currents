@@ -1,8 +1,9 @@
 # Media Coverage
 ## Data Summary
-Data for this metric was gathered from Media Cloud, an open source platform for media anlysis. Media Cloud is maintained by the [University of Massachusetts Amherst](https://publicinfrastructure.org/), [Northeastern University](https://dataculture.northeastern.edu/), and the [Media Ecosystems Analysis Group](https://www.mediaecosystems.org/). 
+Data for this metric was gathered from Media Cloud, an open source platform for media anlysis. Media Cloud is maintained by the [University of Massachusetts Amherst](https://publicinfrastructure.org/), [Northeastern University](https://dataculture.northeastern.edu/), and the [Media Ecosystems Analysis Group](https://www.mediaecosystems.org/).
 
 ## Methodology
+Media Cloud provides API Tutorial Notebooks through [Github](https://github.com/mediacloud/api-tutorial-notebooks). The 
 
 Performed a Boolean Search for articles about Sea Level Rise in the San Francisco Bay 
 
