@@ -1,8 +1,5 @@
-# Bay Adapt Currents Git Hub Repository
-## Summary
-This repository provides access to the data sets used to create the [Bay Adapt Currents Dashboard](https://app.powerbigov.us/view?r=eyJrIjoiZTZkZmM2NjAtMDY5OS00NjJlLWFhMWQtOTE5NWM4Njc2ZmY0IiwidCI6ImRkODc3MWE4LTU1MzAtNDMzMy05NDllLWM0NjAwZjViY2E3MSJ9&pageName=3040416bd188a75a422b).
-## Data Updates
-The Git Hub is updated when new data is added to the dashboard.
-## Credits
-Suggested Citation:
-Bay Conservation and Development Commission. (2025). Bay Adapt Currents Dashboard Git Hub Repository [Name of Page (ex. Public Opinion on Climate Change)]. Access Date. 
+# Regional Environmental Health Metrics
+## Data Summary
+BCDC Staff performed snowball sampling of adaptation professionals to ensure that we were capturing all relevant datasets. We collected information on the program/project, when it started, the data coverage area, and provided a link to the platform. Some of the metrics and monitoring projects are from static documents and represent a specific moment in time, while others are updated more frequently.
+
+Data for this metric was gathered from each of the metrics and monitoring projects. These datasets are maintained by the San Francisco Estuary Institute (SFEI),  The California Natural Resources Agency, The Ocean and Coastal Policy Center at UCSB,  The Delta Stewardship Council, San Francisco Estuary Partnership (SFEP), Metropolitan Transportation Commission (MTC), San Francisco Bay Restoration Authority (SFBRA), and the Wetlands Regional Monitoring Program (WRMP). 
