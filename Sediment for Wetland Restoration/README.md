@@ -1,8 +1,12 @@
-# Bay Adapt Currents Git Hub Repository
-## Summary
-This repository provides access to the data sets used to create the [Bay Adapt Currents Dashboard](https://app.powerbigov.us/view?r=eyJrIjoiZTZkZmM2NjAtMDY5OS00NjJlLWFhMWQtOTE5NWM4Njc2ZmY0IiwidCI6ImRkODc3MWE4LTU1MzAtNDMzMy05NDllLWM0NjAwZjViY2E3MSJ9&pageName=3040416bd188a75a422b).
-## Data Updates
-The Git Hub is updated when new data is added to the dashboard.
-## Credits
-Suggested Citation:
-Bay Conservation and Development Commission. (2025). Bay Adapt Currents Dashboard Git Hub Repository [Name of Page (ex. Public Opinion on Climate Change)]. Access Date. 
+# Sediment for Wetland Restoration
+## Data Summary
+Data for this metric was gathered from the [Dredging Material Management Office (DMMO)](https://www.spn.usace.army.mil/Missions/Dredging-Work-Permits/Dredged-Material-Management-Office-DMMO/Annual-Reports/) Annual Data Tables kept in BCDC staff records from 2000-2007 and the DMMO Annual Reports from 2008-2024. The DMMO is a joint effort by the United States Army Corps of Engineers, the United States Environmental Protection Agency, the San Francisco Bay Regional Water Quality Control Board, and the San Francisco Bay Conservation and Development Commission.  
+
+## Methodology
+- Gathered dredging season tables from sediment team (2000-2007)
+  - Recorded project name, and cubic yards of sediment for each project labeled beneficial reuse/upland
+  - Met with BCDC sediment team to remove projects from data set that were upland or were beneficial reuse for agriculture rather than wetland restoration.  
+
+- Reviewed Annual Reports (2007-2023)
+  - Added Beneficial Reuse Projects to spreadsheet with annual cubic yards for each project
+  - Highlighted projects that were unclear if they were beneficial reuse for wetland restoration 
