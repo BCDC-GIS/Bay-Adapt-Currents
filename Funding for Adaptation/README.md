@@ -1,8 +1,12 @@
-# Bay Adapt Currents Git Hub Repository
-## Summary
-This repository provides access to the data sets used to create the [Bay Adapt Currents Dashboard](https://app.powerbigov.us/view?r=eyJrIjoiZTZkZmM2NjAtMDY5OS00NjJlLWFhMWQtOTE5NWM4Njc2ZmY0IiwidCI6ImRkODc3MWE4LTU1MzAtNDMzMy05NDllLWM0NjAwZjViY2E3MSJ9&pageName=3040416bd188a75a422b).
-## Data Updates
-The Git Hub is updated when new data is added to the dashboard.
-## Credits
-Suggested Citation:
-Bay Conservation and Development Commission. (2025). Bay Adapt Currents Dashboard Git Hub Repository [Name of Page (ex. Public Opinion on Climate Change)]. Access Date. 
+# Funding for Adaptation
+## Data Summary
+Data for this metric was gathered from the [Plan Bay Area 2050+ Needs and Revenue Forecast](https://planbayarea.org/sites/default/files/meetings/attachments/6112/10av_24_1150_Attachment_D_Final_Environment_Needs_and_Revenue.pdf), an update to the existing revenues spreadsheet that was created for the [2023 Sea Level Rise Adaptation Funding & Investment Framework](https://mtc.ca.gov/planning/resilience/sea-level-rise-adaptation-funding-investment-framework). The Plan Bay Area 2050+ Needs and Revenue Forecast is part of the Plan Bay Area 2050+ Suplemental Report which is currently in the draft phase. For more information on this data please contact Michael Germeraad, [mgermeraad@bayareametro.gov](mgermeraad@bayareametro.gov).
+
+Additional data on the funding of adaptation projects came form the Shoreline Adaptation Project Map (SAPMap). SAPMap was created in 2021 to track adaptation project progress in the Bay. BCDC's Community Vulnerability Mapping was also used in conjunction with the SAPMap Data. 
+
+## Methodology
+Methods used in the creation of the Existing Revenues Spreadsheet for the Sea Level rise Funding and Investment Framework can be found in the [Technical Methodology Report](https://mtc.ca.gov/sites/default/files/documents/2023-07/SLR_Framework_Technical_Methodology_Report_0.pdf), Pages 25-28. BCDC Staff tested data accuracy of the Plan Bay Area 2050+ Needs and Revenue Forecast Data. 
+
+To calculate the amount of project funding going toward communities with high social or contamination vulnerability, BCDC staff first overlaid the SAPMap locations with the Community Vulnerability Mapping dataset in GIS. Based on project center points, projects were labeled as being in "social," "social and contamination," or "contamination" vulnerability areas. Next, we divided the total funding sum of habitat projects by the amount of funding in social vulnerability areas. This included areas labeled as both "social" and "social and contamination." We then repeated this step for contamination vulnerability. Because an area can be considered as having a high social and contamination vulnerability, it is important to note there is overlap in the percentages. 
+
+*Please note that this analysis is based on point (X, Y) data representing the center of each project. As such, project labeling may not fully capture all vulnerabilities present across the entire project area. Results should be interpreted with this limitation in mind.*
