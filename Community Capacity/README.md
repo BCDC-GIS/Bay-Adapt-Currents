@@ -1,4 +1,4 @@
-# Community Capacity 
+# Community Capacity Building Programs
 ## Data Source Summary
 Data for this metrics was collected using snowball sampling techniques. BCDC Staff contacted organizations with known programs that focused on environmental justice and sea level rise and asked about other programs that should be looked into. 
 
